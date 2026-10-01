@@ -1,6 +1,6 @@
 ### Hi, I'm Taniya
 
-I'm learning DevOps — currently focused on CI/CD pipelines, IaC and docker.
+I'm learning DevOps.
 
 - Currently practicing: Jenkins, Docker, Kubernetes
 
